@@ -10,7 +10,4 @@ My GitHub page is [http://github.com/ShonisaurusGooseman](http://github.com/Shon
 
 * Lab 6
 
-    Lab 6, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
+Lab 6 as a whole was an interesting challenge in learning how to use operators. The simplicity in part 1 of only needing to find the area of a rectangle from user inputs was easy enough to pick up & apply into part 2. Part 2 was an unique challenge; albeit hard, wasn't too hard to feel near impossible & felt incredibly satisfying to get down & complete. Overall, this lab as a whole is one of my favorites for its straightforward set up.

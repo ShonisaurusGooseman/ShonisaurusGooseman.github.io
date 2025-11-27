@@ -4,7 +4,7 @@ This is my home page! My name is Shaun Guzman and I'm a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/ShonisaurusGooseman.
+My GitHub page is [http://github.com/ShonisaurusGooseman](http://github.com/ShonisaurusGooseman).
 
 ### CPSC 120
 

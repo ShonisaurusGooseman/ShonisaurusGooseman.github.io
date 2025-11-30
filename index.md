@@ -2,7 +2,7 @@
 
 This is my home page! My name is Shaun Guzman and I'm a student at [Cal State Fullerton](http://www.fullerton.edu/), my major is Computer Engineering.
 
-## Github Page 
+## Github Page
 
 My GitHub page is [http://github.com/ShonisaurusGooseman](http://github.com/ShonisaurusGooseman).
 

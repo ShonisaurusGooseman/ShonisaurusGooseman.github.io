@@ -2,11 +2,11 @@
 
 This is my home page! My name is Shaun Guzman and I'm a student at [Cal State Fullerton](http://www.fullerton.edu/), my major is Computer Engineering.
 
-## Computer Science Projects
+## Github Page
 
 My GitHub page is [http://github.com/ShonisaurusGooseman](http://github.com/ShonisaurusGooseman).
 
-### CPSC 120
+### My Personal Favorite CPSC 120L Labs
 
 * Lab 6
 

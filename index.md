@@ -14,4 +14,4 @@ Lab 6 as a whole was an interesting challenge in learning how to use operators. 
 
 * Lab 7
 
-Lab 7 was a hard challenge. Although consisting of 1 part, was fun work through. The combined utilization of operators, if/else statements, etc., blended together for a surprisingly fun challenge to work through. I was never able to fully complete the lab however due to the complexities of the lab's final section, but I viewed it as a good & entertaining way of attempting to figure out how to code it into a functional version.
+Lab 7 was a hard challenge. Although consisting of 1 part, was fun work through. The combined utilization of operators, if/else statements, etc., blended together for a surprisingly fun challenge to work through. I was never able to fully complete the lab however due to the complexities of the lab's final section, but I viewed it as a good & entertaining way of attempting to figure out how to code it into a functional version
